@@ -1,8 +1,8 @@
-Heart Failure Mortality Prediction
+Heart Failure Mortality Prediction :-
 
 This project predicts the mortality risk of patients with heart failure using Support Vector Machine (SVM) and Artificial Neural Network (ANN) models. It is based on clinical patient records and aims to assist in early detection of high-risk cases.
 
-Features
+Features :-
 
 Uses Heart Failure Clinical Records dataset (299 patients, 13 features).
 
@@ -14,7 +14,7 @@ Performance measured using accuracy, precision, recall, F1-score, and confusion 
 
 Includes visualizations for better understanding of dataset and model performance.
 
-Tech Stack
+Tech Stack :- 
 
 Python
 
@@ -45,3 +45,4 @@ Hyperparameter tuning for better performance
 Deploy models with Flask / FastAPI
 
 Build GUI dashboard for doctors and caregivers
+
