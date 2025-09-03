@@ -26,7 +26,7 @@ scikit-learn → SVM, preprocessing, evaluation
 
 tensorflow / keras → ANN model
 
-Workflow
+Workflow :-
 
 Load and preprocess dataset
 
@@ -38,11 +38,12 @@ Evaluate models using multiple metrics
 
 Predict patient survival from new inputs
 
-Future Improvements
+Future Improvements :-
 
 Hyperparameter tuning for better performance
 
 Deploy models with Flask / FastAPI
 
 Build GUI dashboard for doctors and caregivers
+
 
